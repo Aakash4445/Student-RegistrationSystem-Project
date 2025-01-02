@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Student-RegistrationSystem-Project/static/css/main.4122c4c3.chunk.css",
+    "main.js": "/Student-RegistrationSystem-Project/static/js/main.856e369d.chunk.js",
+    "main.js.map": "/Student-RegistrationSystem-Project/static/js/main.856e369d.chunk.js.map",
+    "runtime-main.js": "/Student-RegistrationSystem-Project/static/js/runtime-main.92972ba2.js",
+    "runtime-main.js.map": "/Student-RegistrationSystem-Project/static/js/runtime-main.92972ba2.js.map",
+    "static/js/2.63c7d5f3.chunk.js": "/Student-RegistrationSystem-Project/static/js/2.63c7d5f3.chunk.js",
+    "static/js/2.63c7d5f3.chunk.js.map": "/Student-RegistrationSystem-Project/static/js/2.63c7d5f3.chunk.js.map",
+    "index.html": "/Student-RegistrationSystem-Project/index.html",
+    "precache-manifest.9a412d25139fffe3bf3afe89586e0345.js": "/Student-RegistrationSystem-Project/precache-manifest.9a412d25139fffe3bf3afe89586e0345.js",
+    "service-worker.js": "/Student-RegistrationSystem-Project/service-worker.js",
+    "static/css/main.4122c4c3.chunk.css.map": "/Student-RegistrationSystem-Project/static/css/main.4122c4c3.chunk.css.map",
+    "static/js/2.63c7d5f3.chunk.js.LICENSE.txt": "/Student-RegistrationSystem-Project/static/js/2.63c7d5f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92972ba2.js",
+    "static/js/2.63c7d5f3.chunk.js",
+    "static/css/main.4122c4c3.chunk.css",
+    "static/js/main.856e369d.chunk.js"
+  ]
+}
